@@ -19,7 +19,7 @@ function isLeap(year) {
 
 }
 
-var isLeapYear = isLeap(2021);
+var isLeapYear = isLeap(1968);
 console.log(isLeapYear)
 
 
